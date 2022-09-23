@@ -40,7 +40,7 @@ a{
     border: solid 3px pink;
     color: white;
     padding: 40px 0;
-    height: 400px;
+    height: 500px;
     background-image: url("assets/imgs/bg-jelly-fish-para_outras_pags.png");
     /*url = caminho para encontrar um recurso
     Uniform Resource Locator = Localizador Padrão de Recursos.
@@ -50,9 +50,8 @@ a{
 /*display flex*/
 .banner .container{
     justify-content: center;
-    height: 400px;
+    height: 500px;
     display: flex;
-    border: solid 3px rgb(182, 21, 47);
     align-items: center;
 }
 
