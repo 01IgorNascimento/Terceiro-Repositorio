@@ -20,7 +20,10 @@ body{
     display: flex;
     justify-content: space-between;
 }
-
+a{
+    text-decoration: none;
+    color: #32b9cd;
+}
 .navbar{
     display: flex;
     width: 600px;
@@ -28,6 +31,7 @@ body{
     color: #e3b062;
     list-style: none;
     align-items: center;
+    text-decoration: none;
 }
 
 /* Banner */
@@ -101,3 +105,9 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.header ul #aqui{
+    font-weight: 1000;
+    color: #32b9cd;
+}
+
